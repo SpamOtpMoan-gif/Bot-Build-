@@ -1,0 +1,12 @@
+{
+  "name": "telegram-bot-builder",
+  "version": "1.0.0",
+  "description": "XOW Telegram Bot APK Builder via Worker",
+  "main": "worker.js",
+  "scripts": {
+    "start": "node worker.js",
+    "build": "sh build_script.sh"
+  },
+  "dependencies": {},
+  "devDependencies": {}
+}
